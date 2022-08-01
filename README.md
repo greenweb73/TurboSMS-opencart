@@ -1,1 +1,3 @@
-# TurboSMS-opencart
+# Модуль що реалізує відправку SMS повідомлень за допомогою HTTP API сервісу turbosms.ua
+
+
